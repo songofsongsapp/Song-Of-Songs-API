@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOSServiceElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyUniqueGuid>fcbd1cfd-61b2-4970-bf25-7c106d314988</PropertyUniqueGuid>
+  <ElementName>I will enter His gates with thanksgiving in my heart,</ElementName>
+  <ElementType>Song</ElementType>
+  <LastEdited>2014-03-21T19:39:49.5039772+00:00</LastEdited>
+  <Note />
+  <Images />
+  <Bible_Chapters>0</Bible_Chapters>
+  <Bible_Verses />
+  <CCLI>3224</CCLI>
+  <Author>Leona von Brehorst</Author>
+  <CopyrightHolder />
+  <Year>1976</Year>
+  <VerseOrder>Verse1,Chorus1</VerseOrder>
+  <Verse1>
+I will enter His gates 
+with thanksgiving in my heart,
+I will enter His courts with praise;
+I will say this is the day
+that the Lord has made,
+I will rejoice for 
+He has made me glad.
+
+He has made me glad, 
+He has made me glad;
+I will rejoice for 
+He has made me glad.
+He has made me glad, 
+He has made me glad;
+
+
+I will rejoice for 
+He has made me glad.</Verse1>
+  <Chorus1>I will rejoice for 
+He has made me glad.
+He has made me glad, 
+He has made me glad;
+I will rejoice for 
+He has made me glad.
+He has made me glad, 
+He has made me glad;
+I will rejoice for
+ He has made me glad.</Chorus1>
+</SOSServiceElement>

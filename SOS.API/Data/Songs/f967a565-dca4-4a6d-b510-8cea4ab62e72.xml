@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOSServiceElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyUniqueGuid>f967a565-dca4-4a6d-b510-8cea4ab62e72</PropertyUniqueGuid>
+  <AltElementName>Silent Night</AltElementName>
+  <ElementName>Silent Night</ElementName>
+  <ElementType>Song</ElementType>
+  <LastEdited>2015-12-13T17:30:49.5048761+00:00</LastEdited>
+  <Note />
+  <Images />
+  <LiturgySlides />
+  <Bible_Chapters>0</Bible_Chapters>
+  <Bible_Verses />
+  <Author>Franz Gruber</Author>
+  <CopyrightHolder>Public Domain</CopyrightHolder>
+  <VerseOrder>Verse1,Verse2,Verse3</VerseOrder>
+  <Verse1>Silent night, holy night,
+All is calm, All is bright
+Round yon Virgin, Mother and Child,
+Holy Infant so Tender and mild,
+Sleep in heavenly peace,
+Sleep in heavenly peace.
+</Verse1>
+  <Verse2>Silent night, holy night,
+Shepherds quake at the sight,
+Glories stream from heaven afar,
+Heavenly hosts sing Alleluia,
+Christ the Saviour is born!
+Christ the saviour is born.
+</Verse2>
+  <Verse3>Silent night, holy night,
+Son of God, love's pure light,
+Radiant beams from Thy holy face,
+With the dawn of redeeming grace,
+Jesus Lord at thy birth,
+Jesus Lord at thy birth.
+</Verse3>
+</SOSServiceElement>

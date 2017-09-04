@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOSServiceElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyUniqueGuid>ff2cfbd3-4f8d-4337-9074-675eb1f7c301</PropertyUniqueGuid>
+  <ElementName>Hungry I come to You</ElementName>
+  <ElementType>Song</ElementType>
+  <LastEdited>2014-11-12T19:57:19.6348254+00:00</LastEdited>
+  <Note />
+  <Images />
+  <LiturgySlides />
+  <Bible_Chapters>0</Bible_Chapters>
+  <Bible_Verses />
+  <Author>Kathryn Scott</Author>
+  <CopyrightHolder>©1999 Vineyard Songs</CopyrightHolder>
+  <Verse1>Hungry I come to You
+for I know You satisfy
+I am empty but I know
+Your love does not run dry</Verse1>
+  <Verse2>Broken I run to You for
+Your arms are open wide
+I am weary but I know
+Your touch restores my life</Verse2>
+  <Chorus1>I'm falling on my knees
+Offering all of me
+Jesus You're all this
+heart is living for</Chorus1>
+  <Bridge1>So I wait for You
+So I wait for You</Bridge1>
+</SOSServiceElement>
